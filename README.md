@@ -1,6 +1,11 @@
 # Ứng Dụng Quản Lý Chi Tiêu Cá Nhân
 
-Ứng dụng web quản lý chi tiêu cá nhân được xây dựng bằng React + TypeScript (frontend) và Node.js + Express + MongoDB (backend).
+# Cách truy cập
+* Cách 1: Truy cập trực tiếp link: https://quanlychitieub23dccc114.onrender.com
+--Lưu ý: Sau khi nhấn đăng nhập/đăng ký user cần đợi 15s để server chạy mới có thể vào trang chính
+* Cách 2: 
+--B1: Truy cập link khởi động server: https://quanlychitieu-lw30.onrender.com
+--B2: Truy cập link khởi động client:  https://quanlychitieub23dccc114.onrender.com
 
 ## Yêu Cầu Hệ Thống
 
@@ -29,30 +34,6 @@
 │   └── ...
 └── README.md
 ```
-
-## Cách Chạy Dự Án
-
-### 1. Backend (Server)
-
-```bash
-cd server
-npm install
-npm run dev
-```
-
-Server sẽ chạy tại `http://localhost:5000`
-
-### 2. Frontend (Client)
-
-```bash
-cd client
-npm install
-npm run dev
-```
-
-Client sẽ chạy tại `http://localhost:3000`
-
-> **Lưu ý**: Chạy cả hai server cùng lúc. Frontend đã được cấu hình proxy đến backend.
 
 ## Tính Năng
 

@@ -2,10 +2,11 @@
 
 # Cách truy cập
 * Cách 1: Truy cập trực tiếp link: https://quanlychitieub23dccc114.onrender.com
---Lưu ý: Sau khi nhấn đăng nhập/đăng ký user cần đợi 15s để server chạy mới có thể vào trang chính
+- tài khoản test: Tên đăng nhập : minh , password: minh123
+- Lưu ý: Sau khi nhấn đăng nhập/đăng ký user cần đợi 15s để server chạy mới có thể vào trang chính
 * Cách 2: 
---B1: Truy cập link khởi động server: https://quanlychitieu-lw30.onrender.com
---B2: Truy cập link khởi động client:  https://quanlychitieub23dccc114.onrender.com
+- B1: Truy cập link khởi động server: https://quanlychitieu-lw30.onrender.com
+- B2: Truy cập link khởi động client:  https://quanlychitieub23dccc114.onrender.com
 
 ## Yêu Cầu Hệ Thống
 
